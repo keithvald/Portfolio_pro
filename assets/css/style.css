@@ -1,0 +1,24 @@
+@font-face{
+	font-family: "";
+	src: url('');
+}
+@font-face{
+	font-family: "";
+	src: url('');
+}
+/*--body--*/
+html,body{
+  margin: 0;
+  background: #222;
+  color: #aaa
+}
+/*--bienvenue--*/
+.bienvenue{
+	font-size: 4em;
+	margin-top: 4em;
+}
+
+.profil{
+	margin-top: 10em;
+	font-size: 1.3em;
+}
